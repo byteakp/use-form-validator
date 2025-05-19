@@ -1,6 +1,6 @@
 {
   "name": "validux",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A lightweight form validation hook for React applications",
   "main": "dist/index.js",
   "module": "dist/index.esm.cjs",
@@ -48,11 +48,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/byteakp/use-form-validator.git"
+    "url": "https://github.com/byteakp/validux.git"
   },
   "bugs": {
-    "url": "https://github.com/byteakp/use-form-validator/issues"
+    "url": "https://github.com/byteakp/validux/issues"
   },
-  "homepage": "https://github.com/byteakp/use-form-validator#readme",
+  "homepage": "https://github.com/byteakp/validux#readme",
   "type": "module"
 }
